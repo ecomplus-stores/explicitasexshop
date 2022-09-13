@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Os melhores produtos para apimentar sua relação!",
-    "link": "/promotion",
-    "background": "#121212"
+    "link": "",
+    "background": "#272b30"
   },
   "contacts_stripe": {
     "pages": [],
