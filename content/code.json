@@ -1,5 +1,5 @@
 {
-  "css": "",
-  "html_head": "",
+  "css": ".header {\n  background:#000000;\n}\n.header__nav a:hover {\n background: #ffffff;\n color:var(--primary);\n}\n.header__nav a {\n color: #ffffff;\n}\n.header__buttons .btn, a > i{\ncolor:#ffffff;\n}\n.header__toggler-icon {\ncolor:#ffffff;\n}\n.top-bar {\n  background:#000000;\n}\n.top-bar__nav {\n  color:#ffffff;\n}\n",
+  "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/df851c727120a11ac9bc82113/8add7ebeb3914c3d53c73b11c.js\");</script>\n\n﻿<a href=\"https://wa.me/55038998530759\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"><i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i></a>",
   "html_body": ""
 }
