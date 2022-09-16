@@ -8,7 +8,7 @@
     "text": "Parcele em 2x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
