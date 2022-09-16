@@ -1,7 +1,7 @@
 {
   "domain": "explicitasexshop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ce1a1a",
+  "primary_color": "#cd2424",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo-pra-site-pequena-aba.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#323030",
+  "secondary_color": "#0f0f0f",
   "icon": "/img/uploads/logo-pra-site-pequena-aba.png",
   "store_id": 1579,
   "description": "Os melhores produtos para apimentar o seu relacionamento você encontra aqui.\nPróteses, excitantes, estimulantes, vibradores.",
