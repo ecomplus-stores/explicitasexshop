@@ -44,7 +44,7 @@
       "limit": 24,
       "offset": 0,
       "sort": null,
-      "autoplay": 1000
+      "autoplay": 3000
     }
   ]
 }
