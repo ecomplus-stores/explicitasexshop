@@ -53,20 +53,11 @@
       "autoplay": 3000
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/xpontogsimplesmosaico.jpg.pagespeed.ic.awacmmqvch.webp",
-      "link": "https://explicitasexshop.com.br/ponto-g"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/15657883966670.png",
-          "link": "https://explicitasexshop.com.br/acessorios"
-        },
-        {
-          "img": "/img/uploads/fantasia01.webp",
-          "link": "https://explicitasexshop.com.br/fantasias-femininas"
+          "img": "/img/uploads/sabonete-_ntimo.webp",
+          "link": "https://explicitasexshop.com.br/sabonete-intimo"
         }
       ]
     }
