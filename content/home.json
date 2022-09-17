@@ -46,13 +46,6 @@
       "page": 1
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 3000
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -64,6 +57,13 @@
           "link": "https://explicitasexshop.com.br/gel-para-sexo-oral"
         }
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 3000
     }
   ]
 }
