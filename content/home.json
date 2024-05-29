@@ -63,7 +63,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "banners-grid",
