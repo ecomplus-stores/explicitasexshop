@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7e22600f2d68e046cd55500d761d8138.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0e624d84806b25995520a65a0222d3e1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.00bd70d495a892f6901bbce872d0b38b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c95d5140e24c9b5d550ecb0e2952b9c4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.d1f0f0cb60103ae5faa8bb19078c0c28.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "explicitasexshop",
+  "short_name": "explicitasexshop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Os melhores produtos para apimentar o seu relacionamento você encontra aqui.\nPróteses, excitantes, estimulantes, vibradores.",
+  "background_color": "#ffffff",
+  "theme_color": "#cd2424"
+}
